@@ -59,6 +59,23 @@ Before starting the application, you must first update file .env.EXAMPLE and the
 
 ## Tests
 
+Categories (GET/POST/PUT/DELETE) Routes - Walkthrough Video
+
+https://drive.google.com/file/d/1HURDO_5yrycaMV-XqCyHIuNmcGqunFBX/view
+
+Products (GET/POST/PUT/DELETE) Routes - Walkthrough Video
+
+https://drive.google.com/file/d/1RhYV8pHWfD6s2sDkSLPx6RusbhdIvbqo/view
+
+Tags (GET/POST/PUT/DELETE) Routes - Walkthrough Video
+
+https://drive.google.com/file/d/1xYCpygvdp9uwJJza-T_WTPU6IPBQgCVN/view
+
+Application Startup Walkthrough Video
+
+https://drive.google.com/file/d/1v80XWXSFvqVBLGiK7b2zPSKe_Krfm_px/view
+
+
 
 
 
