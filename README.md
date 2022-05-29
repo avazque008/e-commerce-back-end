@@ -64,4 +64,4 @@ If you require any further information / assistance, please feel free to contact
 ### Contact Information
 
 * Email: avazque008@outlook.com
-* [Github Profile](https://github.com/avazque008")
+* [Github Profile](https://github.com/avazque008)
