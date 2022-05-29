@@ -25,6 +25,8 @@ The back end for an e-commerce site that includes several api routes that intera
  
 ## Usage
 
+[Application Startup Walkthrough Video](https://drive.google.com/file/d/1v80XWXSFvqVBLGiK7b2zPSKe_Krfm_px/view)
+
 Before starting the application, you must first update file .env.EXAMPLE and then open mysql command-line. Once in MySQL in the command-line run (source db/schema.sql) to create the database. Then, exit MySQL and if you want, run (npm run seed) in a new terminal/command-line to autofill the database with some data. Finally, you must run (npm start) to start the application. 
  
 ## License
@@ -59,24 +61,11 @@ Before starting the application, you must first update file .env.EXAMPLE and the
 
 ## Tests
 
-Categories (GET/POST/PUT/DELETE) Routes - Walkthrough Video
+[Categories (GET/POST/PUT/DELETE) Routes - Walkthrough Video](https://drive.google.com/file/d/1HURDO_5yrycaMV-XqCyHIuNmcGqunFBX/view)
 
-https://drive.google.com/file/d/1HURDO_5yrycaMV-XqCyHIuNmcGqunFBX/view
+[Products (GET/POST/PUT/DELETE) Routes - Walkthrough Video](https://drive.google.com/file/d/1RhYV8pHWfD6s2sDkSLPx6RusbhdIvbqo/view)
 
-Products (GET/POST/PUT/DELETE) Routes - Walkthrough Video
-
-https://drive.google.com/file/d/1RhYV8pHWfD6s2sDkSLPx6RusbhdIvbqo/view
-
-Tags (GET/POST/PUT/DELETE) Routes - Walkthrough Video
-
-https://drive.google.com/file/d/1xYCpygvdp9uwJJza-T_WTPU6IPBQgCVN/view
-
-Application Startup Walkthrough Video
-
-https://drive.google.com/file/d/1v80XWXSFvqVBLGiK7b2zPSKe_Krfm_px/view
-
-
-
+[Tags (GET/POST/PUT/DELETE) Routes - Walkthrough Video](https://drive.google.com/file/d/1xYCpygvdp9uwJJza-T_WTPU6IPBQgCVN/view)
 
 
 ## Questions
