@@ -24,7 +24,7 @@ The back end for an e-commerce site that includes several api routes that intera
  
 ## Usage
 
-Before starting the application, you must first update file .env.EXAMPLE and running mysql through the command-line to start the application. Once in MySQL in the command-line run source db/schema.sql. Then, exit MySQL and if you want, run npm run seed in a new terminal/command-line to autofill the database with some data. Finally, you may run npm start to start the application. 
+Before starting the application, you must first update file .env.EXAMPLE and then open mysql command-line. Once in MySQL in the command-line run source db/schema.sql to create the database. Then, exit MySQL and if you want, run npm run seed in a new terminal/command-line to autofill the database with some data. Finally, you may run npm start to start the application. 
  
 ## License
 
